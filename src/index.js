@@ -5,7 +5,7 @@ import { Provider } from 'react-redux';
 import { store } from './store';
 import App from './App';
 
-const TOPICS_LIST = ['IT', 'Education', 'Gaming', 'Science', 'Sports', 'Travel']
+const TOPICS_LIST = ['Web_Development','Android_Development']
 
 const el = document.querySelector('#root');
 const root = createRoot(el);
