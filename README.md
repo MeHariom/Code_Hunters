@@ -14,7 +14,7 @@
 <hr>
 
 ## :gear: Back-End
-https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png
+<h3>FireBase</h3>
 
 
 <h3 align="left">Support:</h3>
