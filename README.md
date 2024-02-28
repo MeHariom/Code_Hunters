@@ -1,3 +1,9 @@
+Science Day Fest
+Under The Guidence of ICFAI University
+Special Thnx To Teacher's and Students those who conduct this Hackathon
+
+
+
 ## Installation
 
 1. Install Node.js *(in case you haven't installed it)*.
